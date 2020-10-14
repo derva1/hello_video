@@ -3,6 +3,6 @@ package ba.unsa.etf.rpr;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Pozdrav ponovo 1234");
+        System.out.println("Pozdrav ponovo 1234567");
     }
 }
